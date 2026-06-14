@@ -11,14 +11,6 @@ africa_proconsularis/thugga/dougga_the_sanctuary_of_caelestis 2.jpg
 africa_proconsularis/thugga/dougga_the_sanctuary_of_minerva 2.jpg
 africa_proconsularis/thugga/dougga_the_sanctuary_of_the_victories_of_caracalla 2.jpg
 africa_proconsularis/thugga/dougga_the_templa_concordiae 2.jpg
-asia/Ephesos North Wall.jpg
-asia/Ephesos Northwest corner 5a.jpg
-asia/Ephesos Plan.jpg
-asia/Ephesos West Wall.jpg
-asia/photo by N. Blanc.jpg
-asia/South agora plan.jpg
-gallia_narbonensis/nemausus/house_of_the_fountain_of_the_benedictines .png
-germania_superior/ausgusta_raurica/EUR_GS_AUG RAU_Hi1+2_carroll.jpg
 hispania_baetica/almedinilla/HIS_BAE_Almedinilla_El Ruedo_Fig. 1_CA.jpg
 hispania_baetica/almedinilla/HIS_BAE_Almedinilla_El Ruedo_Fig. 2_CA.jpg
 hispania_baetica/almedinilla/HIS_BAE_Almedinilla_El Ruedo_Fig. 3_CA.jpg
@@ -128,13 +120,3 @@ lusitania/monforte/HIS LUS_Torre de Palma_ph3 fig3.jpg
 lusitania/monforte/HIS LUS_Torre de Palma_ph4 fig4.jpg
 lusitania/monforte/HIS LUS_Torre de Palma_photo_CA fig5.jpg
 lusitania/monforte/HIS LUS_Torre de Palma_plan fig1.jpg
-lusitania/vila_de_frades/HIS LUS_Villa S�o Cucufate ph1 fig1.jpg
-lusitania/vila_de_frades/HIS LUS_Villa S�o Cucufate_ph2 fig2.jpg
-lusitania/vila_de_frades/HIS LUS_Villa S�o Cucufate_ph3 fig3.jpg
-numidia/thamugadi/house_at _the_w _of_the_filadelfes.jpg
-numidia/thamugadi/house_of _sertius.jpg
-numidia/thamugadi/water_sanctuary _aqua_eptimania_felix.jpg
-numidia/thamugadi/water_sanctuary _aqua_eptimania_felix1.jpg
-pannonia/aquincum/PAN_AQU_House 1_M Carroll.jpg
-pannonia/carnuntum/PAN_CAR_House 1_M Carroll.jpg
-pannonia/eisenstadt/PAN_EIS_Villa_M Carroll.jpg
